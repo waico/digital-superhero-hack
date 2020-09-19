@@ -6,7 +6,7 @@
 
 # Методика оценки эффективности размещения комплексов ФВФ
 ## Методология тройной разности
-Оригинальный материал доступен по [ссылке](https://habr.com/ru/company/ods/blog/416101/).
+Оригинальный материал доступен по [ссылке](https://habr.com/ru/company/ods/blog/416101/), [видео](https://www.youtube.com/watch?v=XWw4Wi6K0QU).
 
 ![МТР](https://habrastorage.org/webt/ba/td/_5/batd_5frmr2br4ewpfm18yitl-c.png)
 
