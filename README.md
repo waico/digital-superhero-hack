@@ -1,4 +1,4 @@
-# digital-superhero-hack
+# dtp-methodology
 Разработка сервиса по определению мест концентрации ДТП
 
 # Задача
